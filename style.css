@@ -1,0 +1,19 @@
+th, td {
+    text-align: center;
+}
+
+label, input {
+    margin-bottom: 2px;
+}
+
+.invalidInput {
+    border: 2px solid red;
+}
+
+#sort {
+    display: flex;
+    flex-flow: wrap;
+    justify-content: space-between;
+    width: 50%;
+    margin: 5px 1px;
+}
